@@ -1,0 +1,5 @@
+{
+  "name": "Universal - Translator Helper",
+  "description": "Univerzálny nástroj pre lokalizáciu hier. Umožňuje extrakciu textov, AI analýzu formátov, manuálne označovanie viacerých segmentov v riadku a hromadné skladanie preložených súborov.",
+  "requestFramePermissions": []
+}
